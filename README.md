@@ -1,3 +1,5 @@
+Data Engineer Technical Test
+
 Task Overview
 This task will consist of two parts.
 In the first task you will be required to, using Python or any other programming language of your choice, to write a small
@@ -5,7 +7,9 @@ application which will extract data from the ‘Spotify Dataset 2023’ dataset 
 load the data into a database, and finally perform some basic data visualisations.
 In the second, you will integrate your solution from the first task into a data pipeline diagram using GCP cloud architecture,
 explaining your choices for each step of the pipeline.
+
 Task Details
+
 Task 1
 1. Extract the ‘spotify-albums_data_2023.csv’ and ‘spotify_tracks_data_2023.csv’ files from the Kaggle API.
 2. Clean the first of the 2 data files. Remove any unnecessary columns, null values, anything you deem unnecessary.
@@ -32,6 +36,8 @@ you want to).
 4. Ensure your solutions are scalable and efficient.
 5. Use GCP tools for the 2 nd task (You may use some 3 rd party tools. If you do, explain the rationale behind your
 choice).
+
+
 During the interview, you will be expected to present and discuss your work. Please be prepared to talk through your
 processes, address any questions or concerns, and demonstrate your knowledge of the API and GCP.
 To help you prepare for the task, we recommend familiarizing yourself with the following GCP components:
